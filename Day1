@@ -1,0 +1,19 @@
+package Day1;
+
+public class Binary {
+public static void main(String[] args)
+{
+	int num1=10;
+	int num2=20;
+	 int sum = num1+ num2;
+	 int diff = num1-num2;
+	 int mult = num1 *num2;
+	 int div = num1/num2;
+	 int modulus = 30%20;
+	 System.out.println("Sum of 2 num "+sum);
+	 System.out.println("diff of 2 num "+diff);
+	 System.out.println("mult of 2 num "+mult);
+	 System.out.println("Div of 2 num "+div);
+	 System.out.println("Modulus of 2 num "+modulus);
+}
+}
